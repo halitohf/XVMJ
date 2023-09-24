@@ -11,13 +11,12 @@ export default function Page() {
         </p>
         <div>
           <a
-            href="https://github.com/halitohf"
-            target="_blank"
+            href="./"
             rel="noopener noreferrer"
           >
             By{' '}
             <Image
-              src="/JJZR.svg"
+              src="/Inicio.svg"
               alt="Vercel Logo"
               className={styles.logo}
               width={100}
@@ -38,59 +37,28 @@ export default function Page() {
           priority
         />
       </div>
+      <div className={styles.description}>
+      <h2>Parroquia de San Vicente Diácono y Mártir</h2>
+      </div>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.9350181468!2d-98.9023564917779!3d19.415213448601175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e114a32542cf%3A0x4cf29313fa52ac9c!2sParroquia%20de%20San%20Vicente%20Di%C3%A1cono%20y%20M%C3%A1rtir!5e0!3m2!1ses-419!2smx!4v1695529277895!5m2!1ses-419!2smx" width="1000" height="600" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <p>Pasos para llegar:</p>
+      <p>Tomando como punto de partida el metro la paz Ⓜ️</p>
+      <ul>Nos dirigimos a la cetram de combis y nos dirigimos al anden C</ul>
+      <ul>Y buscamos las cobis que se dirigen a ARA 3 "San Vicente Chicoloapan"</ul>
 
-      <iframe className="maps"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.404325474127!2d-99.14937212404124!3d19.438126881842493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f8d5c3166767%3A0x60f5e1bbed779eb8!2sIglesia%20de%20San%20Hip%C3%B3lito%20y%20San%20Casiano!5e0!3m2!1ses-419!2smx!4v1695416769048!5m2!1ses-419!2smx" width="1000" height="600" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-      <div className={styles.grid}>
-        <a
-          href="https://"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Invitacion <span>-&gt;</span>
-          </h2>
-          <p>Invitacion Principal.</p>
-        </a>
-
-        <a
-          href="https://"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Ubicacion <span>-&gt;</span>
-          </h2>
-          <p>Mapas y Ubicacion de la Party&nbsp;Pary 🎂🥳!</p>
-        </a>
-
-        <a
-          href="https://"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Padrinos <span>-&gt;</span>
-          </h2>
-          <p>Informacion Sobre mis Padrinos.</p>
-        </a>
-
-        <a
-          href="https://"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Mesa de Regalos <span>-&gt;</span>
-          </h2>
-          <p>
-            Posibles regalos que le gustarian a la Festejada.
-          </p>
-        </a>
+      <div className={styles.center}>
+        <Image
+          className={styles.logo}
+          src="/Mapas1.svg"
+          alt="Next.js Logo"
+          width={280}
+          height={280}
+          priority
+        />
+      </div>
+      <div>
+        <h2>Recepcion </h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.955161097135!2d-98.89864431450127!3d19.41434323509151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e110e75079b3%3A0x8dac7f4bdaa013e9!2sMofles%20Dilan!5e0!3m2!1ses-419!2smx!4v1695529104314!5m2!1ses-419!2smx" width="1000" height="600" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        
       </div>
     </main>
   )

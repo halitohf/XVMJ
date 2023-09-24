@@ -1,22 +1,22 @@
 import Image from 'next/image'
-import styles from './page.module.css'
+import styles from '../page.module.css'
 
 export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Es un placer para mi invitarte a mis XV&nbsp;
+          Soy &nbsp;
           <code className={styles.code}>🥰</code>
         </p>
         <div>
           <a
-            href="https://github.com/halitohf"
+            href="./"
             rel="noopener noreferrer"
           >
-            Volver al {' '}
+            Volver al {''}
             <Image
-              src="/JJZR.svg"
+              src="/Inicio.svg"
               alt="Vercel Logo"
               className={styles.logo}
               width={100}
@@ -29,8 +29,7 @@ export default function Home() {
 
       <div className={styles.center}>
         <Image
-          className={styles.logo}
-          src="/XV_.svg"
+          src="/maria.jpeg"
           alt="Next.js Logo"
           width={280}
           height={280}
@@ -51,19 +50,21 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="/invitacion"
+          href="/dashboard"
           className={styles.card}
+          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
             Invitacion <span>-&gt;</span>
           </h2>
-          <p>Fecha y Hora del Evento.</p>
+          <p>Invitacion Principal.</p>
         </a>
 
         <a
           href="/dashboard"
           className={styles.card}
+          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
@@ -75,6 +76,7 @@ export default function Home() {
         <a
           href="/padrinos"
           className={styles.card}
+          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
