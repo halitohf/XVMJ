@@ -44,8 +44,7 @@ export default function Page() {
       <p>Pasos para llegar:</p>
       <p>Tomando como punto de partida el metro la paz Ⓜ️</p>
       <ul>Nos dirigimos a la cetram de combis y nos dirigimos al anden C</ul>
-      <ul>Y buscamos las cobis que se dirigen a ARA 3 "San Vicente Chicoloapan"</ul>
-
+      <ul>Y buscamos las cobis que se dirigen a ARA 3 San Vicente Chicoloapan</ul>
       <div className={styles.center}>
         <Image
           className={styles.logo}
