@@ -36,7 +36,14 @@ export default function Home() {
           priority
         />
       </div>
-
+      <div><p>&nbsp;</p></div>
+      <div><p>&nbsp;</p></div>
+      <div><h1>25 DE NOVIEMBRE DEL 2023</h1></div>
+      <div><p>&nbsp;</p></div>
+      <div><p>&nbsp;</p></div>
+      <div><h1>La Misa Iniciaria</h1></div>
+      <div><p>&nbsp;</p></div>
+      <div><h1>HRS: 5:00PM</h1></div>
       <div className={styles.center}>
         <Image
           className={styles.logo}
@@ -47,7 +54,8 @@ export default function Home() {
           priority
         />
       </div>
-
+      <div><p>&nbsp;</p></div>
+      <div><p>&nbsp;</p></div>
       <div className={styles.grid}>
         <a
           href="/dashboard"
