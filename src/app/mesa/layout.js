@@ -11,7 +11,7 @@ export default function Home() {
         </p>
         <div>
           <a
-            href="https://github.com/halitohf"
+            href="/"
             rel="noopener noreferrer"
           >
             Volver al {' '}
