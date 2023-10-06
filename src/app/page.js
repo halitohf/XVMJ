@@ -84,9 +84,8 @@ export default function Home() {
         </a>
 
         <a
-          href="/dashboard"
+          href="/mesa"
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>

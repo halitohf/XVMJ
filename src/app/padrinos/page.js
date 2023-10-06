@@ -14,9 +14,9 @@ export default function Home() {
             href="./"
             rel="noopener noreferrer"
           >
-            By{' '}
+            Volver a {' '}
             <Image
-              src="/JJZR.svg"
+              src="/Inicio.svg"
               alt="Vercel Logo"
               className={styles.logo}
               width={100}
