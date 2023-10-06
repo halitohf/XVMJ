@@ -54,9 +54,9 @@ export default function Home() {
           className={styles.card}
           rel="noopener noreferrer"
         >
-          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/money.png" alt="money"/>
+          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/jewelry.png" alt="jewelry"/>
           <h2>
-            Regalo 3# <span>-&gt;</span>
+            Joyas <span>-&gt;</span>
           </h2>
           <p>Informacion Sobre mis Padrinos.</p>
         </a>
@@ -65,9 +65,9 @@ export default function Home() {
           className={styles.card}
           rel="noopener noreferrer"
         >
-          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/money.png" alt="money"/>
+          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/trumpet.png" alt="trumpet"/>
           <h2>
-            Regalo 4 # <span>-&gt;</span>
+            Banda <span>-&gt;</span>
           </h2>
           <p>
             Posibles regalos que le gustarian a la Festejada.
@@ -77,9 +77,9 @@ export default function Home() {
           className={styles.card}
           rel="noopener noreferrer"
         >
-          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/money.png" alt="money"/>
+          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/gift.png" alt="gift"/>
           <h2>
-            Regalo 1 # <span>-&gt;</span>
+            Regalos <span>-&gt;</span>
           </h2>
           <p>Fecha y Hora del Evento.</p>
         </a>
@@ -87,9 +87,9 @@ export default function Home() {
           className={styles.card}
           rel="noopener noreferrer"
         >
-          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/money.png" alt="money"/>
+          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/paint-palette.png" alt="paint-palette"/>
           <h2>
-            Regalo 2 # <span>-&gt;</span>
+            Maquillaje <span>-&gt;</span>
           </h2>
           <p>Fecha y Hora del Evento.</p>
         </a>
@@ -97,8 +97,9 @@ export default function Home() {
           className={styles.card}
           rel="noopener noreferrer"
         >
+          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/teddy-bear.png" alt="teddy-bear"/>
           <h2>
-            Regalo 3 # <span>-&gt;</span>
+            Peluches <span>-&gt;</span>
           </h2>
           <p>Fecha y Hora del Evento.</p>
         </a>
@@ -106,8 +107,9 @@ export default function Home() {
           className={styles.card}
           rel="noopener noreferrer"
         >
+          <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/tv.png" alt="tv"/>
           <h2>
-            Regalo 1 # <span>-&gt;</span>
+            Electronica <span>-&gt;</span>
           </h2>
           <p>Fecha y Hora del Evento.</p>
         </a>
