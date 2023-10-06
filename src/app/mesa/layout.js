@@ -34,7 +34,7 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/money.png" alt="money"/>
           <h2>
-            Efectivo <span>-&gt;</span>
+            Efectivo <span></span>
           </h2>
           <p>No se aceptan Billetes de 20, 50 o 100 💵.</p>
         </a>
@@ -45,7 +45,7 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/baseball-cap.png" alt="baseball-cap"/>
           <h2>
-            Gorras Originales  <span>-&gt;</span>
+            Gorras Originales  <span></span>
           </h2>
           <p>No se acepta mercancia del tianguis&nbsp;💵!</p>
         </a>
@@ -56,9 +56,9 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/jewelry.png" alt="jewelry"/>
           <h2>
-            Joyas <span>-&gt;</span>
+            Joyas <span></span>
           </h2>
-          <p>Informacion Sobre mis Padrinos.</p>
+          <p>Son Bonitas</p>
         </a>
 
         <a
@@ -67,10 +67,10 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/trumpet.png" alt="trumpet"/>
           <h2>
-            Banda <span>-&gt;</span>
+            Banda <span></span>
           </h2>
           <p>
-            Posibles regalos que le gustarian a la Festejada.
+            Puedes llegar con banda o mariachi 🎺.
           </p>
         </a>
         <a
@@ -79,9 +79,9 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/gift.png" alt="gift"/>
           <h2>
-            Regalos <span>-&gt;</span>
+            Regalos <span></span>
           </h2>
-          <p>Fecha y Hora del Evento.</p>
+          <p>Regalos Grandes y Bonitos 👌🎁</p>
         </a>
         <a
           className={styles.card}
@@ -89,9 +89,9 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/paint-palette.png" alt="paint-palette"/>
           <h2>
-            Maquillaje <span>-&gt;</span>
+            Maquillaje <span></span>
           </h2>
-          <p>Fecha y Hora del Evento.</p>
+          <p>La Festejada no tomara a mal tu regalo 😊💕</p>
         </a>
         <a
           className={styles.card}
@@ -99,9 +99,9 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/teddy-bear.png" alt="teddy-bear"/>
           <h2>
-            Peluches <span>-&gt;</span>
+            Peluches <span></span>
           </h2>
-          <p>Fecha y Hora del Evento.</p>
+          <p>Grandes y Bonitos.</p>
         </a>
         <a
           className={styles.card}
@@ -109,9 +109,9 @@ export default function Home() {
         >
           <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/tv.png" alt="tv"/>
           <h2>
-            Electronica <span>-&gt;</span>
+            Electronica <span></span>
           </h2>
-          <p>Fecha y Hora del Evento.</p>
+          <p>No le hacemos feo a pantallas y bocinas Bluetooth</p>
         </a>
       </div>
     </main>
