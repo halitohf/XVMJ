@@ -11,7 +11,7 @@ export default function Home() {
         </p>
         
       </div>
-      <h1>Regalos que le encantaria </h1>
+      <h1>Regalos que le encantarian a la Quinceañera </h1>
       <div className={styles.grid}>
         <a
           className={styles.card}
