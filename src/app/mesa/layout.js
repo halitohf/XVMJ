@@ -9,22 +9,7 @@ export default function Home() {
           Mesa de Regalos&nbsp;
           <code className={styles.code}>🥰</code>
         </p>
-        <div>
-          <a
-            href="/"
-            rel="noopener noreferrer"
-          >
-            Volver al {' '}
-            <Image
-              src="/Inicio.svg"
-              alt="Vercel Logo"
-              className={styles.logo}
-              width={100}
-              height={50}
-              priority
-            />
-          </a>
-        </div>
+        
       </div>
       <h1>Regalos que le encantaria </h1>
       <div className={styles.grid}>
@@ -114,6 +99,17 @@ export default function Home() {
           <p>No le hacemos feo a pantallas y bocinas Bluetooth</p>
         </a>
       </div>
+      <div>
+        <a
+          className={styles.card}
+          href="/"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            Volver al Inicio <span></span>
+          </h2>
+        </a>
+        </div>
     </main>
   )
 }
