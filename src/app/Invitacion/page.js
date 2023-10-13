@@ -29,14 +29,6 @@ export default function Home() {
       <div><p>&nbsp;</p></div>
       <div><h1>HRS: 5:00PM</h1></div>
       <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/Name.svg"
-          alt="Next.js Logo"
-          width={1800}
-          height={280}
-          priority
-        />
       </div>
       <div><p>&nbsp;</p></div>
       <div><p>&nbsp;</p></div>

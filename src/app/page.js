@@ -9,22 +9,6 @@ export default function Home() {
           Es un placer para mi invitarte a mis XV&nbsp;
           <code className={styles.code}>🥰</code>
         </p>
-        <div>
-          <a
-            href="https://github.com/halitohf"
-            rel="noopener noreferrer"
-          >
-            Volver al {' '}
-            <Image
-              src="/JJZR.svg"
-              alt="Vercel Logo"
-              className={styles.logo}
-              width={100}
-              height={50}
-              priority
-            />
-          </a>
-        </div>
       </div>
 
       <div className={styles.center}>
