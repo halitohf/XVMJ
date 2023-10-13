@@ -9,22 +9,7 @@ export default function Home() {
           Mis padrinos son:&nbsp;
           <code className={styles.code}>🥰</code>
         </p>
-        <div>
-          <a
-            href="./"
-            rel="noopener noreferrer"
-          >
-            Volver a {' '}
-            <Image
-              src="/Inicio.svg"
-              alt="Vercel Logo"
-              className={styles.logo}
-              width={100}
-              height={50}
-              priority
-            />
-          </a>
-        </div>
+        
       </div>
 
       <div className={styles.center}>
