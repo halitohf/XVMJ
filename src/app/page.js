@@ -31,7 +31,7 @@ export default function Home() {
         <Image
           className={styles.logo}
           src="/XV_.svg"
-          alt="Next.js Logo"
+          alt="Logo XV"
           width={280}
           height={280}
           priority
@@ -40,7 +40,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="/invitacion"
+          href="/Invitacion"
           className={styles.card}
           rel="noopener noreferrer"
         >
@@ -51,7 +51,7 @@ export default function Home() {
         </a>
 
         <a
-          href="/dashboard"
+          href="/Mapas"
           className={styles.card}
           rel="noopener noreferrer"
         >
@@ -62,7 +62,7 @@ export default function Home() {
         </a>
 
         <a
-          href="/padrinos"
+          href="/Padrinos"
           className={styles.card}
           rel="noopener noreferrer"
         >
@@ -73,7 +73,7 @@ export default function Home() {
         </a>
 
         <a
-          href="/mesa"
+          href="/MesaRegalos"
           className={styles.card}
           rel="noopener noreferrer"
         >

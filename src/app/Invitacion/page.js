@@ -9,22 +9,6 @@ export default function Home() {
           Soy &nbsp;
           <code className={styles.code}>🥰</code>
         </p>
-        <div>
-          <a
-            href="./"
-            rel="noopener noreferrer"
-          >
-            Volver al {''}
-            <Image
-              src="/Inicio.svg"
-              alt="Vercel Logo"
-              className={styles.logo}
-              width={100}
-              height={50}
-              priority
-            />
-          </a>
-        </div>
       </div>
 
       <div className={styles.center}>
@@ -107,6 +91,17 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <div>
+        <a
+          className={styles.card}
+          href="/"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            Volver al Inicio <span></span>
+          </h2>
+        </a>
+        </div>
     </main>
   )
 }

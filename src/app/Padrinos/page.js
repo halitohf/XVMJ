@@ -61,6 +61,17 @@ export default function Home() {
           <p>&nbsp; 👩</p>
         </a>
       </div>
+      <div>
+        <a
+          className={styles.card}
+          href="/"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            Volver al Inicio <span></span>
+          </h2>
+        </a>
+        </div>
     </main>
   )
 }
