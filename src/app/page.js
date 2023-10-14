@@ -42,7 +42,7 @@ export default function Home() {
           <h2>
             Ubicacion <span>-&gt;</span>
           </h2>
-          <p>Mapas y Ubicacion de la Party&nbsp;Pary 🎂🥳!</p>
+          <p>Mapas y Ubicacion de la Party&nbsp;Party 🎂🥳!</p>
         </a>
 
         <a
