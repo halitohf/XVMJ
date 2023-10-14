@@ -30,20 +30,19 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Padrino <span>-&gt;</span>
+          Nicolás Cruz Juárez<span></span>
           </h2>
-          <p>&nbsp;👨</p>
+          <p>Padrino&nbsp;👨</p>
         </a>
 
         <a
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Madrina <span>-&gt;</span>
+            Adela Valdez Miranda <span></span>
           </h2>
-          <p>&nbsp; 👩</p>
+          <p> Madrina&nbsp; 👩</p>
         </a>
       </div>
       <div>
