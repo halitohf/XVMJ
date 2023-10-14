@@ -11,16 +11,14 @@ export default function Home() {
         </p>
       </div>
 
-      <div className={styles.center}>
-        <Image
-          src="/maria.jpeg"
+      <div><p>&nbsp;</p></div>
+      <Image
+          src="/Name1.png"
           alt="Next.js Logo"
-          width={280}
-          height={280}
+          width={800}
+          height={100}
           priority
         />
-      </div>
-      <div><p>&nbsp;</p></div>
       <div><p>&nbsp;</p></div>
       <div><h1>25 DE NOVIEMBRE DEL 2023</h1></div>
       <div><p>&nbsp;</p></div>
@@ -33,13 +31,7 @@ export default function Home() {
       <div><p>&nbsp;</p></div>
       <div><p>&nbsp;</p></div>
 
-      <Image
-          src="/Name1.png"
-          alt="Next.js Logo"
-          width={800}
-          height={100}
-          priority
-        />
+      
       <div className={styles.grid}>
         <a
           href="/Invitacion"
