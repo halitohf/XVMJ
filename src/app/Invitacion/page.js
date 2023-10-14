@@ -11,14 +11,15 @@ export default function Home() {
         </p>
       </div>
 
-      <div><p>&nbsp;</p></div>
+      <div className={styles.logo}><p>&nbsp;</p>
       <Image
-          src="/Name.png"
+          src="/111.svg"
           alt="Nombre"
-          width={450}
+          width={550}
           height={100}
           priority
         />
+        </div>
       <div><p>&nbsp;</p></div>
       <div><h1>25 DE NOVIEMBRE DEL 2023</h1></div>
       <div><p>&nbsp;</p></div>
