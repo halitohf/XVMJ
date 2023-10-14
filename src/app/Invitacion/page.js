@@ -13,9 +13,9 @@ export default function Home() {
 
       <div><p>&nbsp;</p></div>
       <Image
-          src="/Name1.png"
+          src="/Name3.png"
           alt="Next.js Logo"
-          width={800}
+          width={250}
           height={100}
           priority
         />
