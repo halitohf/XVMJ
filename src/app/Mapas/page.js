@@ -35,7 +35,7 @@ export default function Page() {
       <div className={styles.description}>
       </div>
       <p>Cd Camino Al Monte 25, El Arenal 1, 56373 San Vicente Chicoloapan, Méx.</p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.955160014594!2d-98.89634832526761!3d19.414343281861136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e110e75079b3%3A0x8dac7f4bdaa013e9!2sMofles%20Dilan!5e0!3m2!1ses-419!2smx!4v1697246517170!5m2!1ses-419!2smx" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.955160014594!2d-98.89634832526761!3d19.414343281861136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e110e75079b3%3A0x8dac7f4bdaa013e9!2sMofles%20Dilan!5e0!3m2!1ses-419!2smx!4v1697246517170!5m2!1ses-419!2smx" width="400" height="400" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       <div className={styles.center}>
       </div>
         <div className={styles.card}>
