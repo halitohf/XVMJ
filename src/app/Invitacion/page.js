@@ -13,9 +13,9 @@ export default function Home() {
 
       <div><p>&nbsp;</p></div>
       <Image
-          src="/Name3.png"
-          alt="Next.js Logo"
-          width={250}
+          src="/Name.png"
+          alt="Nombre"
+          width={450}
           height={100}
           priority
         />
@@ -26,11 +26,8 @@ export default function Home() {
       <div><h1>La Misa Iniciaria</h1></div>
       <div><p>&nbsp;</p></div>
       <div><h1>HRS: 5:00PM</h1></div>
-      <div className={styles.center}>
-      </div>
       <div><p>&nbsp;</p></div>
       <div><p>&nbsp;</p></div>
-
       
       <div className={styles.grid}>
         <a
