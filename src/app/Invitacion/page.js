@@ -32,11 +32,18 @@ export default function Home() {
       </div>
       <div><p>&nbsp;</p></div>
       <div><p>&nbsp;</p></div>
+
+      <Image
+          src="/Name1.png"
+          alt="Next.js Logo"
+          width={800}
+          height={100}
+          priority
+        />
       <div className={styles.grid}>
         <a
-          href="/dashboard"
+          href="/Invitacion"
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
@@ -46,9 +53,8 @@ export default function Home() {
         </a>
 
         <a
-          href="/dashboard"
+          href="/Mapas"
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
@@ -58,9 +64,8 @@ export default function Home() {
         </a>
 
         <a
-          href="/padrinos"
+          href="/Padrinos"
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
@@ -70,7 +75,7 @@ export default function Home() {
         </a>
 
         <a
-          href="/dashboard"
+          href="/MesaRegalos"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
